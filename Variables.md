@@ -63,7 +63,8 @@ You can check other ways of [Working with String Templates]().
 ### Booleans
 We can represent **Boolean** variables with one of two values: **true** and **false**
 
-Built-in operations on booleans include ||, &&, !
-** || ** - OR
-** && ** - AND
-** !  ** - Negation
+Built-in operations on booleans include:
+
+- **||** - OR
+- **&&** - AND
+- **!** - Negation
