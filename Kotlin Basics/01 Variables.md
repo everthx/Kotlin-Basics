@@ -58,7 +58,7 @@ Strings are expressed by the type **String**.
 val s: String = "Hello"
 val str = "World"
 ```
-You can check other ways of [Working with String Templates]().
+You can check other ways of [Working with String Templates](https://github.com/everthx/Kotlin-Basics/blob/main/Kotlin%20Basics/02%20String%20Templates.md).
 
 ### Booleans
 We can represent **Boolean** variables with one of two values: **true** and **false**
